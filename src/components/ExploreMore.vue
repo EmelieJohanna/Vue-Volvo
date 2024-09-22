@@ -36,6 +36,18 @@ library.add(fas);
 }
 
 .link-item {
-  font-weight: 900;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: rgb(247, 247, 247);
+  font-weight: 700;
+}
+
+.link-item:hover {
+  background-color: rgb(233, 233, 233);
+}
+
+.link-item:active {
+  background-color: rgb(221, 221, 221);
 }
 </style>

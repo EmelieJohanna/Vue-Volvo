@@ -6,11 +6,17 @@ import ExploreMore from "./components/ExploreMore.vue";
 
 <template>
   <Header />
-
-  <main><Hero /><ExploreMore /></main>
+  <main><Hero /><ExploreMore class="explore-more" /></main>
 </template>
 
 <style scoped>
+main {
+  padding-top: 60px;
+}
+.explore-more {
+  margin-top: 2rem;
+}
+
 /* header {
   line-height: 1.5;
 }
