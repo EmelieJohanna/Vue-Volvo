@@ -1,0 +1,32 @@
+[
+  {
+    "model": "EX40",
+    "description": "Helt elektrisk SUV",
+    "price": "607 000",
+    "img": "/images/ex40.webp"
+  },
+  {
+    "model": "EX30",
+    "description": "Helt elektrisk SUV",
+    "price": "449 000",
+    "img": "/images/ex30.webp"
+  },
+  {
+    "model": "XC60",
+    "description": "Laddhybrid SUV",
+    "price": "686 000",
+    "img": "/images/xc60.webp"
+  },
+  {
+    "model": "XC90",
+    "description": "Laddhybrid SUV",
+    "price": "994 000",
+    "img": "/images/xc90.webp"
+  },
+  {
+    "model": "EX90",
+    "description": "Helt elektrisk SUV",
+    "price": "997 000",
+    "img": "/images/ex90.webp"
+  }
+]

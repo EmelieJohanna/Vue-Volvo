@@ -2,11 +2,18 @@
 import Header from "./components/Header.vue";
 import Hero from "./components/Hero.vue";
 import ExploreMore from "./components/ExploreMore.vue";
+import CarCarousel from "./components/CarCarousel.vue";
 </script>
 
 <template>
   <Header />
-  <main><Hero /><ExploreMore class="explore-more" /></main>
+  <main>
+    <Hero />
+    <ExploreMore class="explore-more" />
+    <CarCarousel />
+
+    <!-- <Carousel /> -->
+  </main>
 </template>
 
 <style scoped>

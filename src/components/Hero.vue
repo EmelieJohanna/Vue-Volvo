@@ -18,8 +18,8 @@
 
 <script setup>
 import { ref, onMounted, onUnmounted } from "vue";
-import smallHeroImg from "@/assets/hero-small.jpg";
-import wideHeroImg from "@/assets/hero-wide.jpg";
+import smallHeroImg from "/images/hero-small.webp";
+import wideHeroImg from "/images/hero-wide.webp";
 
 // initial image
 const currentHeroImg = ref(wideHeroImg);
